@@ -1,15 +1,15 @@
 ---
-name: Han
-surname: Zhang
-position: "Postdoctoral Research Fellow"
-address: "Department of Psychology, University of Michigan"
-www: sites.lsa.umich.edu/hanzh
-email: "hanzh@umich.edu"
+name: Alexander
+surname: Fink
+position: "Assistant Professor & Faculty Director"
+address: "Department of Social Work and Sabo Center for Democracy & Citizenship, Augsburg University"
+www: www.alexfink.com
+email: "finka2@augsburg.edu"
 #to get the orcid: 0000-0001-6087-0428
-googlescholar: ujW-lXkAAAAJ
-osf: nrtbk # currently vitae doesn't support osf in the yaml header, need to add \osf{nrtbk} in the .tex file manulaly
-github: HanZhang-psych
-twitter: \_HanZhang_
+#googlescholar: ujW-lXkAAAAJ
+#osf: nrtbk # currently vitae doesn't support osf in the yaml header, need to add \osf{nrtbk} in the .tex file manulaly
+github: alexanderjfink
+#twitter: \_HanZhang_
 #researchgate: Han_Zhang175
 headcolor: 414141 # use black color
 date: "`r format(Sys.time(), '%B %Y')`"
