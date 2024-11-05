@@ -4,8 +4,8 @@ This repo contains my CV and the code used to build it. This is a work in progre
 
 ## Main Files
 
-* `CV_HanZhang.pdf`: The final product.
-* `CV_HanZhang.rmd`: The R Markdown file used to create the PDF.
+* `CV_AlexFink.pdf`: The final product.
+* `CV_AlexFink.rmd`: The R Markdown file used to create the PDF.
 * `awesome-cv.cls`:This LaTeX template is in charge of the overall style of your CV. [vitae](https://github.com/mitchelloharawild/vitae) supports several templates and I liked this one the most. I made small tweaks to the personal info section (font size, color, & spacing) based on the original template. If you prefer the original, delete this file. 
 * `apa-cv.csl`: APA 7th style from the [Zotero Style Repository](https://www.zotero.org/styles?q=id%3Aapa-cv). This file defines your citation style. In my field (Psychology), APA style is the standard. Change it to other citation styles if needed.
   `Note: I edited the `apa-cv.csl` file to support "in press" articles and to add a citation number before each reference. To display an article as "in press", in Zotero you want to leave the published date empty, add "in press" in the "Extra" field, and export it as a `.bib` file. You will find that the reference has a `note` field with the value `in press`. This will replace the year field in the generated citation. If you do not want this feature, remove the .csl file and download the original one from the Zotero Style Repository.`
